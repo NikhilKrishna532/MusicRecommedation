@@ -27,6 +27,9 @@ This project combines **emotion detection** with **movie and music recommendatio
 4. **Fully Connected Layer**: Maps extracted features to predicted emotions.
 5. **Output Layer**: Identifies the user's current emotion.
 
+![image](https://github.com/user-attachments/assets/a7c8164d-d433-44b7-9fc1-91894f83bcb1)
+
+
 ### Flask Interface
 - **Webpages**:
   - 🏠 Home Page
@@ -45,16 +48,29 @@ This project combines **emotion detection** with **movie and music recommendatio
 
 ## Access the Home Page 🏠
 - The UI displays a welcoming screen to start the process.
+  ![image](https://github.com/user-attachments/assets/cc49390a-c27b-4cfe-9be2-4dc6a0ef7cc2)
+
+
 
 ## Emotion Detection 😄😢
 - Grant webcam access to analyze emotions in real-time.
 - The detected emotion is displayed on the screen.
+  ![image](https://github.com/user-attachments/assets/b11e9abb-d4cc-4d64-97f1-1946cb1280a5)
+
+  
 
 ## Select Preference 🎥 or 🎶
 - Choose between "Movies" or "Music" recommendations.
+  ![image](https://github.com/user-attachments/assets/f2a21607-68d2-4af7-8ce2-3323cadaaf89)
+
 
 ## Receive Recommendations 📜
 - View movies or music matching the detected emotion.
+  ![image](https://github.com/user-attachments/assets/19e75746-4319-43a1-aad1-a6cd3170442f)
+
+  ![image](https://github.com/user-attachments/assets/db92fda1-3f91-46ff-9106-8fef356256ea)
+
+
 
 ---
 
