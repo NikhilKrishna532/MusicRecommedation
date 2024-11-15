@@ -76,8 +76,12 @@ This project combines **emotion detection** with **movie and music recommendatio
 
 # 🔍 Experimental Results
 
-- **Model Accuracy**: Achieved 73.86% accuracy with CNN.
+- **Model Accuracy**: Achieved 73.86% and 50.94% accuracy with CNN and MobileNetV2.
 - **Validation**: Metrics like train/validation accuracy and confusion matrices confirm model reliability.
+
+![image](https://github.com/user-attachments/assets/c97e296e-df0a-4c96-8d31-7366c0643cc2)
+
+
 
 ---
 
